@@ -1,4 +1,4 @@
 {
-  "serverURL": "http://localhost:4000",
-  "websocketServerURL": "http://localhost:5000"
+  "serverURL": "https://melted-brave-monarch.glitch.me",
+  "websocketServerURL": "https://melodic-rounded-makeup.glitch.me"
 }
